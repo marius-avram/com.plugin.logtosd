@@ -15,7 +15,7 @@ Can be useful for debugging nasty bugs when your phone is not connected via USB.
 ## Using
 Clone the plugin
 
-    $ git clone https://github.com/don/cordova-plugin-hello.git
+    $ git clone https://github.com/marius-avram/com.plugin.logtosd.git
     
 Install the plugin
 
